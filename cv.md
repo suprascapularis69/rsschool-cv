@@ -33,3 +33,16 @@ for (let i = 0; i < hearts.length; i++) {
   })
 }
 ```
+
+## Experience
+
+Content-manager at IDA Project (Since November 2021)
+
+## Education 
+
+* **University:** Moscow Power Engineering Institute
+* **Courses:** RSSchool JS/FE (Stage 1 Student)
+
+## English 
+
+A2
