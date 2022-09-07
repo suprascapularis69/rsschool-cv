@@ -1,1 +1,1 @@
-https://suprascapularis69.github.io/rsschool-cv/cv
+https://suprascapularis69.github.io/rsschool-cv
